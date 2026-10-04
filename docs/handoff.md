@@ -65,7 +65,7 @@ El archivo usa estilos inline y una clase `Component` (lógica, al final del arc
 
 ## SEO / Metadatos
 - `<title>`: **Alonso Chang - Diseñador**
-- `meta description`, Open Graph (`og:title`, `og:description`, `og:image` = `img/alonso.jpg`, `og:locale` es_CL) y `theme-color` `#07080d`. Al publicar, cambiar `og:image` a URL absoluta del dominio final.
+- `meta description`, Open Graph (`og:title`, `og:description`, `og:image` = `img/alonso.jpg`, `og:locale` es_CL) y `theme-color` `#07080d`. Dominio: alonsochang.cl (archivo `CNAME`, DNS en Cloudflare → GitHub Pages).
 - Vídeo: YouTube `J6aJD-9avko`
 
 ## Pendientes de contenido
